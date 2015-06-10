@@ -34,6 +34,7 @@ class clsCampaignManagementView:
     Specifics:
     """
     global CAMPAIGN_DATA_DIRECTORY
+    global CAMPAIGN_LOG_SELECTED, CAMPAIGN_ASSETS_SELECTED, CAMPAIGN_NOTES_SELECTED
     CAMPAIGN_DATA_DIRECTORY = '/Data/Campaigns/'
 
     try:
