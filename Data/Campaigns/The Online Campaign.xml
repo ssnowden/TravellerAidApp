@@ -1,0 +1,63 @@
+<TravellerCampaign active="False" name="The Online Campaign">
+  <Description>some more Test Campaign</Description>
+  <Referee>Simon Snowden</Referee>
+  <StartDate>13/05/2015</StartDate>
+  <Setting>The Third Imperium after the 5th Frontier War. </Setting>
+  <Log>
+    <LogEntry EntryDate="103/1105">
+      <LogEntryPlayer>Another test entry</LogEntryPlayer>
+      <LogEntryReferee>And some referee test stuff</LogEntryReferee>
+    </LogEntry>
+    <LogEntry EntryDate="102/1105">
+      <LogEntryPlayer>Some stuff</LogEntryPlayer>
+      <LogEntryReferee>Some stuff for the referee</LogEntryReferee>
+    </LogEntry>
+    <LogEntry EntryDate="101/1105">
+      <LogEntryPlayer>Player1</LogEntryPlayer>
+      <LogEntryReferee>Referee1</LogEntryReferee>
+    </LogEntry>
+    <LogEntry EntryDate="102/1105">
+      <LogEntryPlayer>Player2</LogEntryPlayer>
+      <LogEntryReferee>Referee2</LogEntryReferee>
+    </LogEntry>
+    <LogEntry EntryDate="103/1105">
+      <LogEntryPlayer>Player3</LogEntryPlayer>
+      <LogEntryReferee>Referee3</LogEntryReferee>
+    </LogEntry>
+    <LogEntry EntryDate="104/1105">
+      <LogEntryPlayer>Player4</LogEntryPlayer>
+      <LogEntryReferee>Referee4</LogEntryReferee>
+    </LogEntry>
+    <LogEntry EntryDate="123/1105">
+      <LogEntryPlayer>the stuff players know</LogEntryPlayer>
+      <LogEntryReferee>the stuff the referee knows and needs to keep track of</LogEntryReferee>
+    </LogEntry>
+  </Log>
+  <Assets>
+    <Asset>
+      <AssetName>Asset1</AssetName>
+      <AssetDescription>The number 1 asset</AssetDescription>
+    </Asset>
+    <Asset>
+      <AssetName>Asset2</AssetName>
+      <AssetDescription>The number 2 asset</AssetDescription>
+    </Asset>
+    <Asset>
+      <AssetName>Asset3</AssetName>
+      <AssetDescription>The number 3 asset</AssetDescription>
+    </Asset>
+    <Asset>
+      <AssetName>Asset4</AssetName>
+      <AssetDescription>The number 4 asset</AssetDescription>
+    </Asset>
+  </Assets>
+  <Notes>these would be notes for developing the online campaign
+    
+    ideas for coming adventures
+    
+    character ideas
+    
+    installations,
+    
+    and even possible new toys for the player characters. </Notes>
+</TravellerCampaign>
